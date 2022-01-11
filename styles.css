@@ -1,0 +1,24 @@
+body{
+    font-family: Calibri,sans-serif;
+    background-color: grey;
+}
+ div{
+     background-color: lightgrey;
+     margin: 10px;
+     padding: 10px;
+     border-radius: 10px;
+
+ }
+ table{
+     width: 100%;
+     text-align: center;
+
+ }
+ img{
+     border-radius: 50%;
+     box-shadow: 0 0 10px black;
+ }
+ th{
+     background-color: grey;
+     color: white;
+ }
